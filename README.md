@@ -1,8 +1,11 @@
 [Back to homepage](https://ah-jia.github.io/)
 
 # HAKKA YONG TAU HU
+[Instructional video](https://youtu.be/e3xqpkpum2U)
 
-![Ready to serve photo](images/change this to filename in images folder.jpg)
+![Ready to serve photo](images/ready-to-eat.jpg)
+
+[Instructional video](https://youtu.be/e3xqpkpum2U)
 
 ## Ingredients
 - 700 gm fish meat (scraped from any preferred white flesh fish, my favourite is redbelly yellowtail fusilier)  In Chinese is called doufu yu or fanshu yu or huang wei yu
